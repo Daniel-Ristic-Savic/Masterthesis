@@ -1,5 +1,7 @@
-![Standortquotient](https://github.com/user-attachments/assets/4811eaac-27a1-4478-8e50-de5737c5fc82)# Masterthesis
 As part of my master’s thesis, I conducted an industry analysis of the city of St. Gallen and visualized the results using various charts. The examples shown here include a location quotient and an employment growth diagram, both plotted using the SciencePlots style. These visualizations highlight sectoral specializations and growth trends.
+
+![Standortquotient](https://github.com/user-attachments/assets/4811eaac-27a1-4478-8e50-de5737c5fc82)
+
 ![Uploading Stand<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
