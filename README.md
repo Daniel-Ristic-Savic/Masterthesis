@@ -1,5 +1,6 @@
 As part of my master’s thesis, I conducted an industry analysis of the city of St. Gallen and visualized the results using various charts. The examples shown here include a location quotient and an employment growth diagram, both plotted using the SciencePlots style. These visualizations highlight sectoral specializations and growth trends.
 
+![stgallen_pfaddynamik_v3](https://github.com/user-attachments/assets/1fcfcf08-3a26-4cf9-bf47-d02789395bb2)
 ![Upl<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
